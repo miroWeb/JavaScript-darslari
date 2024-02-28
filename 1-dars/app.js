@@ -1,5 +1,5 @@
 let text;
 console.log(text);
 
-text = "Frontend";
+text = "salom";
 console.log(text);
